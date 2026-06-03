@@ -1,0 +1,26 @@
+body {
+    background: cornflowerblue;
+    font-weight: 24px;
+    color: darkgreen;
+    text-align: center;
+    font-family: Calibri, serif;
+}
+
+h1 {
+    color: darkmagenta;
+    font-weight: 32px;
+    text-align: center;
+    font-family: Calibri, sans-serif;
+}
+
+blockquote {
+    font-style: italic;
+    font-weight: 28px;
+    font-family: Calibri, serif;
+}
+
+.verde {
+    color: chartreuse;
+}
+
+
